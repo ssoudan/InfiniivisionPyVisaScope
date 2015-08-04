@@ -1,5 +1,5 @@
 # InfiniivisionPyVisaScope
-Wrapper around pyvisa to drive an Keysight Infiniivision MSO-X 2xxx/3xxx scope in Python
+Wrapper around pyvisa to drive a Keysight Infiniivision MSO-X 2xxx/3xxx scope in Python
 
 sebastien.soudan@gmail.com
 
